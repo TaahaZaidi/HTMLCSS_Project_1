@@ -1,0 +1,29 @@
+img {
+  height: 100px;
+  width: 100px;
+}
+#Searcher {
+  position: absolute;
+  left: 1400px;
+  top: 35px;
+}
+div.Header {
+  border-style: outset;
+  border-width: 5px;
+  background-color: lightgrey;
+
+}
+div.blog {
+  font-family: serif;
+  font-size: 15px;
+  position: absolute;
+  left: 150px;
+  top: 150px;
+}
+p {
+  width: 150px;
+}
+#title {
+  position: relative;
+  left: 60px
+}
